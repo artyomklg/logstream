@@ -1,7 +1,7 @@
 def main() -> None:
     try:
-        num1: int = float(input("Ввести произвольное число: "))
-        num2: int = float(input("Ввести пограничное число: "))
+        num1: float = float(input("Ввести произвольное число: "))
+        num2: float = float(input("Ввести пограничное число: "))
     except ValueError:
         print("Неверный формат ввода")
         return
