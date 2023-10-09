@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "logstream"
+name = "test-proj"
 version = "0.1.0"
 description = ""
 authors = ["artyomklg <artem0801200269@gmail.com>"]
